@@ -1,2 +1,3 @@
 # SuperHeroWEBAPI
-To create or update the database use the following command in Package Manager Console 
+To create or update the DataBase use the following command in Package Manager Console 
+dotnet ef database update
